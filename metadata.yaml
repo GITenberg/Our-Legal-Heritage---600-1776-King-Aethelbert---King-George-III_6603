@@ -1,5 +1,8 @@
 _repo: Our-Legal-Heritage---600-1776-King-Aethelbert---King-George-III_6603
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reilly, S. A.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/696
 description: This book has undergone multiple editions, and is available as Project
   Gutenberg eBook numbers 1694, 6603, 13376, 36299 and 40780.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6603#Our-Legal-Heritage---600-1776-King-Aethelbert---King-George-III
 gutenberg_bookshelf: British Law
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
